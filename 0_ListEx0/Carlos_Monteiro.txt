@@ -1,3 +1,0 @@
-This is a dummy file .
-This line is supposed to create a conflict.
-Line to create conlict.
